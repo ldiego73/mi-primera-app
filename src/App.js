@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import "./scss/theme.scss";
 
 import { Header, Footer, Profile, ProfileClass } from "./components";
 
